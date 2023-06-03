@@ -1,0 +1,9 @@
+print(
+"""
+Print
+this
+multi-line
+string,
+please.
+"""
+)
