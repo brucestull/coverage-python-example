@@ -3,7 +3,8 @@ Simple example of using Python's `coverage` package with a simple Python module.
 
 ## Commands
 
-* `coverage run append_to_list.py`
+* `coverage run miss_fourteen_of_twenty_three_lines.py`
+* `coverage run miss_thirteen_of_sixteen_lines.py`
 * `coverage report`
 * `coverage html`
 
